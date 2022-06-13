@@ -1,0 +1,33 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 1130,
+      "fitWidth": true,
+      "fitHeight": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "bullet"
+      },
+      {
+        "index": 2,
+        "name": "enemy"
+      },
+      {
+        "index": 3,
+        "name": "buff"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 12,
+      "1": 4,
+      "2": 3,
+      "3": 1
+    }
+  }
+}

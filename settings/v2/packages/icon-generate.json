@@ -1,0 +1,7 @@
+{
+  "__version__": "1.0.0.2",
+  "config": {
+    "image": "E:\\Project\\Cocos\\WXAirplane\\launcher.png",
+    "output": "E:\\Project\\Cocos\\WXAirplane"
+  }
+}
